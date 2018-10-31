@@ -31,4 +31,5 @@ the _origin=*_ part of the url is important in avoiding CORS errors you may need
 
 understand how your api is structured. This will inform how your link should look. For example I know that for a query, I am filling in the 'srsearch' (the last part of the url) with the word i want to look up. Depending on what info you want you will have to do research to figure out the correct _endpoint_ url to use.
 
+console.log() everything. use it to understand how the json data that is being returned is structured. That's how I figured out I needed to use `data.query.search` to get the actual results for this example (line 8 of main.js)
 
