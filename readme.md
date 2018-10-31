@@ -3,7 +3,7 @@
 
 This example uses the wikipedia api and jquery's getJSON method. When you enter a keyword and hit search, it should pull the descriptions for the results from wikipedia.
 
-<<<INSERT IMAGE>>>
+![screenshot of app](https://github.com/AaratiAkkapeddi/jquery_api_boilerplate/blob/master/example.png)
 
 You can read more about the getJSON method here -> https://api.jquery.com/jquery.getjson/
 
