@@ -18,7 +18,8 @@ You should see something like this...
 `cd /Users/aarati/Desktop/api_boilerplate`
 
 4. now hit enter in the terminal window
-5. now type `python -m SimpleHTTPServer 8000` into the terminal and hit enter.
+5. now type `python -m SimpleHTTPServer 8000` into the terminal and hit enter. 
+**NOTE IF YOU ARE RUNNING PYTHON 3 YOU MAY HAVE TO RUN THIS COMMAND INSTEAD -> `python -m http.server`**
 6. now, if you navigate to http://localhost:8080 in any browser you should see this project up and running.
 7. To stop the server, hit cntrl + C in the terminal window.
 
